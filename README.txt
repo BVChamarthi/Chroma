@@ -3,6 +3,8 @@ Welcome to CHROMA!!!
 CHROMA is a single-player 2D platformer game that was designed and coded up by me, 
 Bharath, for my CSCB58 final project for the Winter 2022 semester at UTSC.
 
+Youtube link of demo video : https://youtu.be/qW6Sib0Xo-M
+
 In the repository, you will find the .asm file of the game itself, a local copy of
 the MARS IDE to run the game with (i will explain why), and a bunch of asset (.dat) files.
 
